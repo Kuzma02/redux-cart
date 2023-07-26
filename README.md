@@ -1,3 +1,5 @@
+# Redux cart - Shopping cart made with React.js and Redux
+![redux cart](https://github.com/Kuzma02/redux-cart/assets/138793624/ffb5b3a8-bfd4-4e7c-b1c0-be15dec3af91)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
